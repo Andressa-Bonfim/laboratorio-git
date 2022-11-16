@@ -2,8 +2,8 @@
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-Projeto Comércio Exterior é um projeto criado com _finalidade nas instruções_ voltadas para as empresas brasileiras atividades e ações que _envolvem o mercado internacional_, como as tarefas de tributações, financeiras, administrativas, comerciais e aduaneiras, entre outras. 
-As políticas públicas utilizadas são as da tripé de sustentabilidade, cujo trabalha equilíbrio o social, ambiental e econômico para a desenvolver a sustenbilidade de uma organização.
+Projeto Comércio Exterior é um projeto criado com finalidade nas instruções voltadas para as empresas brasileiras atividades e ações que envolvem o mercado internacional, como as tarefas de tributações, financeiras, administrativas, comerciais e aduaneiras, entre outras. 
+As políticas públicas utilizadas são as da tripé de sustentabilidade, cujo trabalha equilíbrio o social, ambiental e econômico para a desenvolver a sustenbilidade de uma organização.<br><br>
 
 - Finalidade do projeto:
 
